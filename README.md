@@ -70,13 +70,13 @@ You may need to modify the corresponding file paths in the config files after da
 ## Pretrained Teacher Models
 | Backbone |   Dataset   | Config | Model |
 |:---------:|:-----------:|:------:|:-----:|
-| TSN_Res50 | actnet | [tsn_r50_1x1x16_50e_actnet_rgb.py](configs/myconfig/tsn/tsn_r50_1x1x16_50e_actnet_rgb.py) |  [ckpt]()  |
-| TSM_Res50 | sthv2 | [tsm_r50_1x1x8_50e_sthv2_rgb.py](configs/myconfig/tsm/tsm_r50_1x1x8_50e_sthv2_rgb.py) |  [ckpt]()  |
-| TSN_Res152 | actnet | [tsn_r152_1x1x16_50e_actnet_rgb.py](configs/myconfig/tsn/tsn_r152_1x1x16_50e_actnet_rgb.py) |  [ckpt]()  |
-| TSN_Res152 | minik | [tsn_r152_1x1x8_50e_minik_rgb.py](configs/myconfig/tsn/tsn_r152_1x1x8_50e_minik_rgb.py) |  [ckpt]()  |
-| TSN_Res152 | fcvid | [tsn_r152_1x1x16_50e_fcvid_rgb.py](configs/myconfig/tsn/tsn_r152_1x1x16_50e_fcvid_rgb.py) |  [ckpt]()  |
-| Slowonly_Res50 | k400 | [slowonly_r50_8x8x1_150e_k400_rgb.py](configs/myconfig/slowonly/slowonly_r50_8x8x1_150e_k400_rgb.py) |  [ckpt]()  |
-| Swin_Base | k400 | [swin_base_32x2x1_50e_k400.py](configs/myconfig/swin/swin_base_32x2x1_50e_k400.py) |  [ckpt]()  |
+| TSN_Res50 | actnet | [tsn_r50_1x1x16_50e_actnet_rgb.py](configs/myconfig/tsn/tsn_r50_1x1x16_50e_actnet_rgb.py) |  [ckpt](https://drive.google.com/file/d/1Q4JdKM4FbiEOfbtLvsDGtVuwdqiskVi4/view?usp=sharing)  |
+| TSM_Res50 | sthv2 | [tsm_r50_1x1x8_50e_sthv2_rgb.py](configs/myconfig/tsm/tsm_r50_1x1x8_50e_sthv2_rgb.py) |  [ckpt](https://drive.google.com/file/d/1m3aW7RfmfuHkVUyCsJuS9PCu05n_J8-T/view?usp=sharing)  |
+| TSN_Res152 | actnet | [tsn_r152_1x1x16_50e_actnet_rgb.py](configs/myconfig/tsn/tsn_r152_1x1x16_50e_actnet_rgb.py) |  [ckpt](https://drive.google.com/file/d/1B36QuuXowAdLmWKF5o8IFtXIRnMWlbyJ/view?usp=sharing)  |
+| TSN_Res152 | minik | [tsn_r152_1x1x8_50e_minik_rgb.py](configs/myconfig/tsn/tsn_r152_1x1x8_50e_minik_rgb.py) |  [ckpt](https://drive.google.com/file/d/1pz3O8np-hkXkHLh6dVsv6yt2k02XrrKL/view?usp=sharing)  |
+| TSN_Res152 | fcvid | [tsn_r152_1x1x16_50e_fcvid_rgb.py](configs/myconfig/tsn/tsn_r152_1x1x16_50e_fcvid_rgb.py) |  [ckpt](https://drive.google.com/file/d/1cZdKWYd0wnAXM3y88ppEfDQgDHGfmj35/view?usp=sharing)  |
+| Slowonly_Res50 | k400 | [slowonly_r50_8x8x1_150e_k400_rgb.py](configs/myconfig/slowonly/slowonly_r50_8x8x1_150e_k400_rgb.py) |  [ckpt](https://drive.google.com/file/d/1D7P9ub0HVeg3G9mX_JboAPLT8EehP5Rp/view?usp=sharing)  |
+| Swin_Base | k400 | [swin_base_32x2x1_50e_k400.py](configs/myconfig/swin/swin_base_32x2x1_50e_k400.py) |  [ckpt](https://drive.google.com/file/d/1s7zs-lIZD5AKCMNPSG4hmhuArM60CLeE/view?usp=sharing)  |
 
 [comment]: <> (### ResKD Models &#40;containing teacher & student&#41;)
 
